@@ -29,5 +29,5 @@ Nginx Setup
 - finally restart the nginx (sudo systemctl restart nginx)
 
 Help link
-https://www.youtube.com/watch?v=JS07npwL3Ps&t=351s
-https://stackoverflow.com/questions/20220846/forwarding-port-to-node-js-app-with-nginx-and-routing
+- https://www.youtube.com/watch?v=JS07npwL3Ps&t=351s
+- https://stackoverflow.com/questions/20220846/forwarding-port-to-node-js-app-with-nginx-and-routing
