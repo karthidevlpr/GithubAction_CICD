@@ -13,5 +13,3 @@ How github Action working
   - Whenever push the new code to github , github action will get trigger
   - also it will trigger the runner and it will excute the build with help of nodejs.yml file in AWS (github and AWS will always sync)
   - we have command to restart the node application in nodejs.yml, that will restart the aplication with latest code.
-
-    ![IMG_3934](https://github.com/user-attachments/assets/27dd1138-25d2-4d06-9339-f6b57f1524ce)
